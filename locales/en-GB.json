@@ -247,7 +247,7 @@
         "add": "Add another prefix"
       },
       "flags": {
-        "title": "Funding and Advertising Decleration",
+        "title": "Funding and Advertising Declaration",
         "inAppPurchases": {
           "title": "In App Purchases",
           "small": "Tick this box if you have features behind a paywall"
